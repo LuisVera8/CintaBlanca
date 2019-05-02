@@ -1,0 +1,20 @@
+
+.carousel-inner img {
+    width: 100%;
+    max-height: 600px;
+}
+
+.carousel-inner{
+ height: 90vh;
+}
+
+.salir {
+    font-family: 'Pacifico', cursive;
+    font-size: 100px;
+    text-align: center;
+}
+
+.sesion {
+    text-align: center;
+    padding-top: 100px;
+}

@@ -1,0 +1,20 @@
+/* selector {
+    propiedad: valor;
+} */
+
+h1 {
+    color: blue;
+    font-size: 100px;
+}
+
+/* Si se va a modificar tamaño de la imagen por mantener la buena vision, solo se tiene que modifar alto o ancho y en automatico se editara el otro proporcionalmente */
+
+.local {
+    width: 200px;
+    border-radius: 29.5%;
+}
+
+.internet {
+    width: 200px;
+    border-radius: 400px;
+}

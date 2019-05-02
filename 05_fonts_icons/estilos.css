@@ -1,0 +1,46 @@
+.img {
+    width: 100px;
+}
+
+.android {
+    font-size: 100px;
+    color: aqua;
+}
+
+/* Para modificar el tamaño, color , etc del icono es recomendable
+crear otra clase para no manipular la original de google */
+
+/* .material-icons {
+    font-size: 600px;
+    color: aqua;
+} */
+
+.instagram {
+    font-size: 100px;
+    color: red;
+}
+
+.face {
+    font-size: 100px;
+    color: pink;
+}
+
+.huella {
+    font-size: 100px;
+    color: black;
+}
+
+.perro {
+    font-size: 100px;
+    color: brown;
+}
+
+.ojo {
+    font-size: 100px;
+    color: green;
+}
+
+.facebook {
+    font-size: 100px;
+    color: blue;
+}

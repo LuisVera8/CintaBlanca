@@ -1,0 +1,95 @@
+boyd {
+    background: #fff;
+}
+
+.contenedor {
+    border: 2px solid yellow;
+    height: 110%;
+}
+
+.navegador {
+    display: flex;
+    border: 2px solid;
+    justify-content: flex-end;
+}
+
+.menu {
+    display: flex;
+    border: 2px solid green;
+    text-align: center;
+}
+
+i {
+    padding: 6px 5px;
+}
+
+.centro {
+    display: flex;
+    border: 2px solid;
+    padding: 109px;
+    justify-content: center;
+}
+
+.google {
+    border: 2px solid green;
+    text-align: center;
+}
+
+.google img {
+    padding-bottom: 15px;
+}
+
+.buscador {
+    border: 2px solid gray;
+    padding: 5px;
+}
+
+.buscador input {
+    width: 100%;
+}
+
+input {
+    padding: 5px;
+    margin: 10px 0px;
+    border-radius: 50px;
+}
+
+.botones {
+    border: 2px solid gray;
+}
+
+span {
+    color: blue;
+}
+
+.footer {
+    border: 2px solid;
+}
+
+.mexico {
+    border: 2px solid blue;
+    background: #f2f2f2;
+}
+
+.izqder {
+    display: flex;
+    justify-content: space-between;
+    background: #f2f2f2;
+}
+
+.izq {
+    display: flex;
+    border: 2px solid blue;
+    /* background: #f2f2f2; */
+}
+
+.der {
+    display: flex;
+    border: 2px solid blue;
+    /* background: #f2f2f2; */
+}
+
+p {
+    padding: 5px;
+    margin: 5px;
+}

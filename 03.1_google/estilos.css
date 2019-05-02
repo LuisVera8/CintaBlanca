@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+
+.opciones {
+    display: inline-block;
+    margin: 5px;
+    border: 1px solid yellow;
+}
+
+.img-nav {
+    border: 1px solid yellow;
+    width: 30px;
+    margin: 5px;
+}
+
+.navegador {
+    border: 1px solid blue;
+    text-align: right;
+}
+
+.contenedor {
+    text-align: center;
+    border: 3px solid green;
+}
+
+.capsula {
+    border: 2px solid red;
+    display: inline-block;
+}
+
+.img-google {
+    margin-top: 75px;
+    margin-bottom: 25px; 
+    width: 500px;
+}
+
+.buscador {
+    margin-bottom: 20px;
+}
+
+.inp {
+    border-radius: 500px;
+    width: 300px;
+}
+
+.boton {
+    border-radius: 3px;
+    margin: 0 5px;
+}

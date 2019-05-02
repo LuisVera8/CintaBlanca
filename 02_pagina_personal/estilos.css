@@ -1,0 +1,30 @@
+body {
+    background: #c3c3c3;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    font-family: 'ZCOOL XiaoWei', serif;
+}
+
+h3 {
+    font-family: 'Margarine', cursive;
+}
+
+p {
+    font-size: 20px;
+}
+
+.foto-perfil {
+    background: #fff;
+    width: 125px;
+    border-radius: 250px;
+    border-radius: 500%;
+}
+
+.redes {
+    width: 30px;
+    height: 35px;
+    border-radius: 100%;
+}

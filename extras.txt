@@ -1,0 +1,11 @@
+siul_levp
+SLACKlevp123!
+
+
+DISPLAY
+block -> abarca una línea completa, no deja que ningun elemento ocupe la misma linea.
+inline -> solo va a medir lo que mide el contenido
+
+* El tamño de la caja no se puede alterar cuando se tiene la propiedad inline, si se tiene block, si se puede alterar.
+
+inline-block -> tiene propiedades de los 2 anteriores

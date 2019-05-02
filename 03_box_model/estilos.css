@@ -1,0 +1,27 @@
+/* Quitamos el borde por defecto en el navegador */
+body{
+    margin: 0;
+}
+
+.caja {
+    border: 2px solid;
+    height: 50px;
+    /* margin: 100px; -> margen para todos los lados del contenido */
+    /* margin: 50px 100px; -> margen para el lado vertical y horizontal primer valor vertical, segundo valor horizontal */
+    /* margin: 50px 100px 20px 10px; -> margen para todo los lados de acuerdo a las manecillas del reloj */
+    margin-bottom: 50px;
+}
+
+.caja2 {
+    border: 2px solid blue;
+    height: 50px;
+    padding: 50px 100px;
+}
+
+.palabra {
+    display: inline-block;
+    border: 2px solid;
+    height: 50px;
+    width: 200px;
+}
+

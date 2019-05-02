@@ -1,0 +1,10 @@
+/* Selectores multiples en CSS
+
+.clase etiqueta { }
+    En esta obedece la/las  etiquetas que esten dentro de la clase
+    no importa si es hijo o nieto
+*/
+
+/* .capitulos > .card > img { } 
+    En este se traza la ruta exacta, va de padre > hijo > nieto / etiqueta
+*/
